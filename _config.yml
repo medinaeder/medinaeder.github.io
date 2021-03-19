@@ -5,11 +5,12 @@ description:         'Feel free to poke around.'
 url:                 https://medinaeder.github.io
 baseurl:             ''
 paginate:            5
+paginate_path:       "/blog/page:num/"
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Eder Medina
+  name:              Eder M.
   url:               
   email:             e_medina at g dot harvard dot edu
 
