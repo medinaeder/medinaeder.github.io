@@ -17,4 +17,4 @@ title: About
 </p>
 
 ![](/images/medina_print.jpg)
-![](/assets/MedinaEder_CV.pdf)
+[CV!](/assets/MedinaEder_CV.pdf)
