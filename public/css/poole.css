@@ -59,16 +59,16 @@ html {
 }
 
 body {
-  color: #C7C7CC;
-  background-color: #1C1C1E;
+  color: #515151;
+  background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 @media (prefers-color-scheme: dark) {
   body {
-    color: #515151;
-    background-color: #000;
+    color: #C7C7CC;
+    background-color: #1C1C1E;
     -webkit-text-size-adjust: 100%;
         -ms-text-size-adjust: 100%;
   }
