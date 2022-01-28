@@ -14,7 +14,7 @@ title: About
 <p class="message">
     Prior to attending Harvard, I completed my undergraduate degree in mechanical engineering at the University of Texas-Austin.
     Hook 'em.
-    
 </p>
 
+![](/images/medina_print.jpg)
 ![](/assets/MedinaEder_CV.pdf)
