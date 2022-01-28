@@ -60,7 +60,7 @@ html {
 
 body {
   color: #515151;
-  background-color: #afc9b4;
+  background-color: #d8e8e4;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -285,7 +285,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #717171;
-  background-color: #7fad99;
+  background-color: #f2f7f7;
 }
 
 
