@@ -17,6 +17,6 @@ title: About
 </p>
 
 <p align=center> 
-[CV](/assets/MedinaEder_CV.pdf) + [Resume(TBD)](/assets/MedinaEder_CV.pdf)
+<a href="/assets/MedinaEder_CV.pdf"> CV </a> + <a href="/assets/MedinaEder_CV.pdf"> Resume(TBD) </a>
 </p> 
 ![](/images/medina_print.jpg)
