@@ -16,5 +16,7 @@ title: About
     Hook 'em.
 </p>
 
+<p align=center> 
+[CV](/assets/MedinaEder_CV.pdf) + [Resume(TBD)](/assets/MedinaEder_CV.pdf)
+</p> 
 ![](/images/medina_print.jpg)
-[CV!](/assets/MedinaEder_CV.pdf)
