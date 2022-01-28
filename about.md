@@ -17,3 +17,4 @@ title: About
     
 </p>
 
+![](/assets/MedinaEder_CV.pdf)
