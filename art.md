@@ -13,3 +13,5 @@ Renderings of succesful or failing simulations.
 ![](/images/a2.png)
 <p align=center>  lens.tesselate</p>
 ![](/images/a3.png)
+<p align=center>  lin.space</p>
+![](/images/a4.png)
