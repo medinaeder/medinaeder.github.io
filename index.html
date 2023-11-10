@@ -1,37 +1,139 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eder Medina - Personal Website</title>
+    <style>
+        body {
+            font-family: 'Roboto Mono', monospace;
+            background-color: #080f11;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
 
-<p class="message">
-    I am PhD Candidate in engineering science at Harvard University where I work with
-    <a href="https://bertoldi.seas.harvard.edu"> Katia Bertoldi</a> and 
-    <a href="https://people.seas.harvard.edu/~chr/"> Chris Rycroft</a>. My research interests 
-    are broad spanning experimental and computional mechanics, optimization, and biomedical engineering. 
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
 
-    My current research topic involves understanding, exploring, and optimizing nonlinear mechanical structures. 
-</p>
-<p class="message">
-    Prior to attending Harvard, I completed my undergraduate degree in mechanical engineering at the University of Texas-Austin.
-    Hook 'em.
-</p>
+        header {
+            background-color: #080f11;
+            text-align: center;
+            padding: 50px 0;
+        }
 
-<p align=center> 
-<a href="/assets/MedinaEder_CV.pdf"> CV </a> + <a href="/assets/MedinaEder_Resume.pdf"> Resume </a>
-</p>
+        header img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 20px;
+        }
 
-<div style="text-align:center"><img src="images/medina_print.jpg" width="400" /></div>
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+            color: #61afef;
+        }
 
-<p align=center> 
-    <b>There is more information in the sidebar! Go snoop around.</b>
-</p>
+        section {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            opacity: 0; /* Set initial opacity to 0 */
+            animation: fadeIn 2s forwards; /* Use the fadeIn animation */
+        }
 
-<h1> Version 0.0.1 </h1>
-Though this site is statically generated I will try to continually add content. 
+        h3 {
+            color: #62d698;
+        }
 
-Things you may find here: blog posts about scientific computing, art, coffee, running, science, and perhaps some short foreign affairs write-ups. 
+        p {
+            color: #b5bbe0;
+            font-size: 0.9em;
+        }
+
+        a {
+            color: #ffcc66;
+            text-decoration: none;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            font-size: 0.8em;
+        }
+
+        ul li::before {
+            content: ">";
+            color: #61afef;
+            margin-right: 5px;
+        }
 
 
+        a:hover {
+            text-decoration: underline;
+        }
 
+        .dark-mode {
+            background-color: #1a1a1a;
+            color: #fff;
+        }
 
-<div style="text-align:center"><img src="images/construction.png" width="400" /></div>
+        .dark-mode a {
+            color: #ffcc66;
+        }
+
+    </style>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap">
+</head>
+<body>
+    <header>
+        <img src="picture.jpg" alt="Eder Medina">
+    </header>
+
+    <section>
+        <h3>Research Interests</h3>
+        <p> My attention is currently focused on solving problems within the realms of machine learning, embodied intelligence, and the application of artificial intelligence to engineering and manufacturing. 
+         My life goal is to design complex engineering systems capable of evolution and adaptation. Proficient in optimization techniques and manufacturing, I bring expertise to the intersection of cutting-edge technology and practical engineering solutions. </p>
+
+        <h3>Education</h3>
+        <ul>
+        <li>Postdoctoral Research Associate, Princeton, 2022-</li>
+        <li>Postdoctoral Fellow, Harvard, 2022</li>
+        <li>Engineering Science PhD, Harvard, 2022</li>
+        <li>Engineering Science SM, Harvard, 2020</li>
+        <li>Mechanical Engineering BS, UT-Austin, 2016</li>
+        </ul>
+
+        <h3>Publications</h3>
+        <ul>
+            <li> <a href="https://doi.org/10.1038/s41565-023-01545-6" target="_blank">3D spatiotemporally scalable in vivo neural
+probes based on fluorinated elastomers</a><br> </li>
+            <li> <a href="https://doi.org/10.1016/j.eml.2023.102015" target="_blank">Nonlinear shape optimization of flexible mechanical metamaterials</a><br> </li>
+            <li> <a href="https://openreview.net/forum?id=QubsmJT_A0" target="_blank">Neuromechanical Autoencoders</a><br> </li>
+            <li> <a href="https://doi.org/10.1103/PhysRevLett.126.084301" target="_blank">Harnessing Mechanical Deformation to Reduce Spherical Aberration in Soft Lenses</a><br> </li>
+            <li> <a href="https://doi.org/10.1103/PhysRevB.101.064101" target="_blank">Navigating the landscape of nonlinear mechanical metamaterials for advanced programmability</a><br></li>
+        </ul>
+
+        <h3>Misc.</h3>
+        <p> Stayed tuned for a section on some of my side projects i'd like to finish (spilfs). </p>
+
+    </section>
+
+    <script>
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+        }
+    </script>
+</body>
+</html>
+
