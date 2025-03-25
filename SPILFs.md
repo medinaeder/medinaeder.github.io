@@ -1,7 +1,3 @@
----
-aliases:
-  - spilfs
----
 A list of all the side projects I would like to finish.
 # Computational
 #### ML + RL
