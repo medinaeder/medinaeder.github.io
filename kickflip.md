@@ -27,7 +27,12 @@ How would I first attempt this problem:
     - Build a robot. Spongebob draws a circle. 
     - Iterate
 
-—
+I could go on and on about what amazing scientific developments this could open up but in all honesty this is just one of those things that would just be cool to see. 
+I am sure that after you see a robot do a kickflip a few times the magic might fade away. I don't think that will be the case for me. But it might force me to think about something harder. 
+Humanoid X Games anyone?
+
+
+---
 Sources 
 [Skateboard physics explained](https://www.youtube.com/watch?v=OxV-u-WnbW4) 
 [Skateboard dynamics model](https://www.sciencedirect.com/science/article/abs/pii/0045782595009329) 
@@ -35,4 +40,4 @@ Sources
 [Mujoco](https://mujoco.org/) 
 [NVidia Isaac](https://developer.nvidia.com/isaac/sim) 
 [Imitation Learning - behavior cloning](https://imitation.readthedocs.io/en/latest/algorithms/bc.html) 
-
+[Spiderman Robot](https://www.youtube.com/watch?v=oyXl3IhonRM) 
