@@ -34,10 +34,10 @@ Humanoid X Games anyone?
 
 ---
 Sources 
-[Skateboard physics explained](https://www.youtube.com/watch?v=OxV-u-WnbW4) 
-[Skateboard dynamics model](https://www.sciencedirect.com/science/article/abs/pii/0045782595009329) 
-[Ollie Model](https://engrxiv.org/preprint/download/3171/version/4465/5768/4565)
-[Mujoco](https://mujoco.org/) 
-[NVidia Isaac](https://developer.nvidia.com/isaac/sim) 
-[Imitation Learning - behavior cloning](https://imitation.readthedocs.io/en/latest/algorithms/bc.html) 
-[Spiderman Robot](https://www.youtube.com/watch?v=oyXl3IhonRM) 
+* [Skateboard physics explained](https://www.youtube.com/watch?v=OxV-u-WnbW4) 
+* [Skateboard dynamics model](https://www.sciencedirect.com/science/article/abs/pii/0045782595009329) 
+* [Ollie Model](https://engrxiv.org/preprint/download/3171/version/4465/5768/4565)
+* [Mujoco](https://mujoco.org/) 
+* [NVidia Isaac](https://developer.nvidia.com/isaac/sim) 
+* [Imitation Learning - behavior cloning](https://imitation.readthedocs.io/en/latest/algorithms/bc.html) 
+* [Spiderman Robot](https://www.youtube.com/watch?v=oyXl3IhonRM) 
